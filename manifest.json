@@ -1,9 +1,9 @@
 {
     "background_color": "purple",
-    "description": "random PWA attempt but it's sus",
+    "description": "random PWA attempt",
     "display": "fullscreen",
     
-    "name": "Susamogus",
-    "short_name": "Sus Amogus Imposter Haha",
+    "name": "bro",
+    "short_name": "PWA Test",
     "start_url": "/PWA/index.html"
 }
