@@ -1,9 +1,9 @@
 {
     "background_color": "purple",
-    "description": "random PWA attempt",
+    "description": "description",
     "display": "fullscreen",
     
-    "name": "bro",
-    "short_name": "PWA Test",
+    "name": "name",
+    "short_name": "short_name",
     "start_url": "/PWA/index.html"
 }
