@@ -1,6 +1,6 @@
 {
     "background_color": "#ff00ff",
-    "description": "description",
+    "description": "An attempt at creating a Progressive Web Application (PWA)",
     "display": "fullscreen",
     
     "name": "name1234567890",
