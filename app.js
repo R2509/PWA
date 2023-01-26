@@ -22,7 +22,7 @@ function randomNotification() {
 	//const notifImg = `data/img/${games[randomItem].slug}.jpg`;
 	const options = {
 		body: notifBody,
-		vibrate: [200, 100, 200]
+		vibrate: [200, 100, 200],
 	//	icon: notifImg,
 	};
 	new Notification(notifTitle, options);
