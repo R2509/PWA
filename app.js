@@ -20,7 +20,7 @@ function randomNotification() {
 	//const notifTitle = games[randomItem].name;
 	//const notifBody = `Created by ${games[randomItem].author}.`;
 	//const notifImg = `data/img/${games[randomItem].slug}.jpg`;
-	//const options = {
+	const options = {
 	  body: notifBody,
 	  icon: notifImg,
 	};
